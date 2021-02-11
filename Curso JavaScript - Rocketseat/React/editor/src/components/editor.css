@@ -1,0 +1,18 @@
+#editor {
+    display: block;
+    position: relative;
+    left: -5px;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: #C0C0C0;
+    width: 400px;
+    height: auto;
+    border-radius: 0.2cm;
+}
+
+#buttons {
+    display: block;
+    position: relative;
+    left: 55px;
+    width: 300px;
+}

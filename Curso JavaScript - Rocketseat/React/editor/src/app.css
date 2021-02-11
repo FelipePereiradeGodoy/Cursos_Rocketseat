@@ -1,0 +1,14 @@
+#app {
+    display: block;
+    position: relative;
+    left: 470px;
+    width: 400px;
+    height: 100px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 100%;
+}
+
+body {
+    background-color: #FFC0CB;
+}
